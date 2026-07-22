@@ -1,29 +1,50 @@
 # Oh My Vanilla
 
+Modpack oficial para **Oh My Vanilla**.
+
 ## Descarga
 
-Puedes descargar la versión más reciente con este link:
+Descarga siempre la versión más reciente desde:
 
 **https://github.com/tcurihual/Oh-My-Vanilla/releases/latest/download/Oh-My-Vanilla.mrpack**
 
-Luego abre el archivo `.mrpack` con **Prism Launcher** (o cualquier launcher compatible con el formato Modrinth).
+Abre el archivo `.mrpack` con Prism Launcher para importar el modpack.
 
 > **Importante:** Este modpack requiere **Java 25**.
 
-## Recomendado: Prism Launcher
+## Prism Launcher
 
-Puedes descargar Prism Launcher desde su sitio oficial:
+Prism Launcher (oficial):
 
 https://prismlauncher.org/
 
-## ¿No tienes Minecraft Premium?
+## Usuarios sin Minecraft Premium
 
-Si juegas en un servidor con autenticación deshabilitada (`online-mode=false`) / no-premium, puedes utilizar este fork de Prism Launcher con soporte para cuentas offline:
+Si juegas en un servidor con `online-mode=false`, puedes utilizar este fork de Prism Launcher con soporte para cuentas offline:
 
 https://github.com/Diegiwg/PrismLauncher-Cracked
 
-> **Aviso:** Este fork es un proyecto de terceros y no está afiliado con Prism Launcher. Descárgalo y úsalo bajo tu propia responsabilidad.
+> **Aviso:** Este fork es un proyecto de terceros y no está afiliado con Prism Launcher. Úsalo bajo tu propia responsabilidad.
+
+## Configurar Java 25
+
+### Instalar Java 25
+
+1. Abre **Settings**.
+2. Ve a **Java** → **Installations**.
+3. Haz clic en **Download**.
+4. Desactiva **Recommended only**.
+5. Selecciona **Java 25** e instálalo.
+
+### Seleccionar Java 25 para el modpack
+
+1. Selecciona la instancia del modpack.
+2. Haz clic en **Edit**.
+3. Ve a **Settings** → **Java**.
+4. Pulsa **Auto-detect** y selecciona la instalación de **Java 25**.
+5. Activa **Skip Java compatibility checks**.
+6. Guarda los cambios y ejecuta el modpack.
 
 ## Actualizaciones
 
-El enlace de descarga anterior siempre apunta a la **última versión** del modpack, por lo que no será necesario cambiarlo cuando se publiquen nuevas releases.
+El enlace de descarga siempre apunta a la última release del repositorio, por lo que no será necesario cambiarlo cuando se publiquen nuevas versiones.
