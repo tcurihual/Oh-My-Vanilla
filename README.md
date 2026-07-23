@@ -16,6 +16,22 @@ Prism Launcher (oficial):
 
 https://prismlauncher.org/
 
+## Importar el modpack
+
+1. Abre **Prism Launcher**.
+
+2. Haz clic en **Add Instance**.
+
+3. Ve a la pestaña **Import**.
+
+4. Pega el siguiente enlace:
+
+   ```
+   https://github.com/tcurihual/Oh-My-Vanilla/releases/latest/download/Oh-My-Vanilla.mrpack
+   ```
+
+5. Haz clic en **OK** y espera a que finalice la importación.
+
 ## Configurar Java 25
 
 ### Instalar Java 25
@@ -35,23 +51,10 @@ https://prismlauncher.org/
 5. Activa **Skip Java compatibility checks**.
 6. Guarda los cambios.
 
-## Importar el modpack
+## Iniciar el modpack
 
-1. Abre **Prism Launcher**.
-
-2. Haz clic en **Add Instance**.
-
-3. Ve a la pestaña **Import**.
-
-4. Pega el siguiente enlace:
-
-   ```
-   https://github.com/tcurihual/Oh-My-Vanilla/releases/latest/download/Oh-My-Vanilla.mrpack
-   ```
-
-5. Haz clic en **OK** y espera a que finalice la importación.
-
-6. Inicia el modpack.
+1. Selecciona la instancia de **Oh My Vanilla**.
+2. Haz clic en **Launch**.
 
 ## Actualizar el modpack
 
@@ -74,4 +77,4 @@ En la página de la última release, descarga el instalador para Windows de 64 b
 PrismLauncher-Windows-MSVC-Setup-<versión>.exe
 ```
 
-Normalmente es uno de los últimos archivos de la lista de assets.
+Normalmente se encuentra entre los últimos archivos de la lista de assets.
