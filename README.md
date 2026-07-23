@@ -10,7 +10,7 @@ Utiliza siempre este enlace para descargar la versión más reciente del modpack
 
 > **Importante:** Este modpack requiere **Java 25**.
 
-## Prism Launcher
+## Prism Launcher - SOLO PREMIUM (abajo launcher no-premium)
 
 Prism Launcher (oficial):
 
